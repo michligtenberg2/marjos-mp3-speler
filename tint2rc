@@ -1,0 +1,9 @@
+
+panel_items = TSC
+panel_position = top center horizontal
+panel_size = 100% 28
+panel_margin = 0 0
+panel_padding = 6 0
+font = sans 10
+clock_format = %H:%M
+systray_padding = 10 0 5

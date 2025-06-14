@@ -1,0 +1,12 @@
+
+configuration {
+  font: "monospace 10";
+  show-icons: false;
+  location: center;
+  fullscreen: false;
+  width: 50;
+}
+window {
+  transparency: "real";
+  background-color: rgba(0,0,0,0.8);
+}
